@@ -1,0 +1,13 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+#hero{
+    background-color: #C6E4D6;
+    background-image: url("../assets/hero.png");
+    height: 400px;
+    background-repeat: no-repeat;
+   
+}
